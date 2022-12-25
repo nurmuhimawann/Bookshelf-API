@@ -1,8 +1,10 @@
-# Bookshelf API - Belajar Membuat Aplikasi Back-End untuk Pemula
+# Bookshelf API - Hapi Framework
 
 ## 📑 API Test
 
 [Postman: API Documentation](https://documenter.getpostman.com/view/24345907/2s8Z6vZEeH)
+
+[Bookshelf API Test Collection & Environment](https://github.com/nurmuhimawann/Bookshelf-API/tree/main/Bookshelf%20API%20Test)
 
 </br>
 
