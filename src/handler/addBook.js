@@ -37,7 +37,7 @@ const addBookHandler = (request, h) => {
 
     const id = nanoid(16);
     const insertedAt = now;
-    const updatedAt = now;
+    const updatedAt = insertedAt;
     const finished = pageCount === readPage;
 
     books.push({
