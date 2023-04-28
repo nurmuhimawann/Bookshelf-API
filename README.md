@@ -2,9 +2,9 @@
 
 ## 📑 API Test
 
-[Postman: API Documentation](https://documenter.getpostman.com/view/24345907/2s93eSYuuL){:target="_blank"}
+<a href="https://documenter.getpostman.com/view/24345907/2s93eSYuuL" target="_blank">Postman: API Documentation</a>
 
-[Bookshelf API Test Collection & Environment](https://github.com/nurmuhimawann/Bookshelf-API/tree/main/Bookshelf%20API%20Test){:target="_blank"}
+<a href="https://github.com/nurmuhimawann/Bookshelf-API/tree/main/Bookshelf%20API%20Test" target="_blank">Bookshelf API Test Collection & Environment</a>
 
 </br>
 
